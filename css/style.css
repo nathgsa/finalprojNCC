@@ -12,3 +12,12 @@ body{
     left: 560px;
     transform: translate(-60%, -60%);
 }
+img{
+    opacity: .5;
+}
+.one{
+    font-size: 50px;
+}
+.two{
+    font-size: 30px;
+}
