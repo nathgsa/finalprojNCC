@@ -11,7 +11,7 @@ img{
 .container{
     position: absolute;
     top: 370px;
-    left: 560px;
+    left: 560px;    
     transform: translate(-65%, -80%)
 }
 .font_size{
